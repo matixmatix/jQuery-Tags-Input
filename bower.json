@@ -1,6 +1,6 @@
 {
-  "name": "jquery.tagsinput",
-  "version": "1.3.3",
+  "name": "jquery.tagsinput.jurgenscope",
+  "version": "1.3.3.7",
   "main": ["jquery.tagsinput.js", "jquery.tagsinput.css"],
   "ignore": [
     "**/.*",
